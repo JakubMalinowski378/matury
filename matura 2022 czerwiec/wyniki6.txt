@@ -1,0 +1,57 @@
+Zadanie 6-1
+109
+
+Zadanie 6-2
+Miasto	PoliczOfId_meczu
+Wiralow		41
+Kukurykow	39
+Szymbark	32
+Preziowo	30
+Bialowo		21
+Gorkowo		18
+Kielkowo	17
+Licowo		15
+Sadelko		15
+Radelko		15
+Koszalkowo	15
+Barylkowo	14
+Orecin		14
+Rezkow		13
+Warkowo		13
+Lewkowo		12
+
+Zadanie 6-3
+Id_sedziego	Imie		Nazwisko		PoliczOfId_meczu
+302			Szymon		Rutkowski		21
+308			Natalia		Jankowska		36
+310			Kamila		Majewska		21
+312			Franciszek	Dudek			27
+313			Monika		Kowalczyk		26
+314			Barbara		Kaczmarek		21
+317			Katarzyna	Olszewska		25
+
+Zadanie 6-4
+Id_sedziego	Imie		Nazwisko
+301			Jan			Malinowski
+303			Anna		Nowak
+306			Agnieszka	Wieczorek
+310			Kamila		Majewska
+311			Piotr		Lewandowski
+312			Franciszek	Dudek
+314			Barbara		Kaczmarek
+320			Zofia		Grabowska
+
+Zadanie 6-5
+Nazwa		Miasto	SumaOfPrzegrane	SumaOfWygrane
+Sfinks		Szymbark	7				9
+Zenit		Licowo		7				8
+Victoria	Radelko		5				10
+Zjednoczeni	Kukurykow	8				10
+Olimpia		Orecin		5				9
+Stolar		Wiralow		9				11
+Astecja		Rezkow		3				10
+Bradownia	Preziowo	9				9
+Spirca		Lewkowo		6				6
+Huraganer	Szymbark	8				8
+Waleczni	Preziowo	5				7
+Libero		Warkowo		5				8

@@ -1,0 +1,25 @@
+Zadanie 5.1
+Gniezno	152
+Malbork	183
+Ogrodzieniec	222
+Przemysl	198
+
+Zadanie 5.2
+8 dni
+07.10.2021
+14.10.2021
+
+Zadanie 5.3
+Gniezno			819000
+Malbork			944240
+Ogrodzieniec	1115560
+Przemysl		1062920
+
+Zadanie 5.4
+Id pierwszego zamówienia 154
+Data pierwszego zamówienia 19.03.2021
+Ilość zamówień przekazanych do filii 37
+Ilość butelek przekazanych przez filie 285 230
+
+Zadanie 5.5
+13179

@@ -1,0 +1,11 @@
+Zadanie 4.1
+18 93639
+
+Zadanie 4.2
+99792 10 62790 6
+
+Zadanie 4.3a
+27
+
+Zadanie 4.3b
+2

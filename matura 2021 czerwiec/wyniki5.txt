@@ -1,0 +1,28 @@
+Zadanie 5.1
+Przychód - 39600
+Koszty - 15950
+Pierwszy dzień - 1.06.2023
+
+Zadanie 5.2
+sty	-7430
+lut	600
+mar	1590
+kwi	2250
+maj	2850
+cze	3660
+lip	4920
+sie	5610
+wrz	4320
+paź	1890
+lis	2040
+gru	1350
+
+
+Zadanie 5.3
+100000	47
+125000	57
+150000	66
+
+Zadanie 5.4
+przychód - 249630	
+koszty - 100655
