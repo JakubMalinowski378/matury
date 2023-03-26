@@ -1,0 +1,38 @@
+Zadanie 5-1
+1	11
+2	9
+3	9
+4	7
+5	6
+6	10
+7	11
+8	6
+9	12
+10	8
+11	16
+12	14
+13	7
+14	12
+15	6
+
+Zadanie 5-2
+Jeden samochód	78
+Dwa samochody	21
+
+Zadanie 5-3
+Ilość klientów przed 20	114
+Ostatni klient o godzinie	19:54:00
+
+Zadanie 5-4
+Godzina pracy	Liczba klientów
+1 godzina				9
+2 godzina				8
+3 godzina				7
+4 godzina				9
+5 godzina				5
+6 godzina				10
+
+Zadanie 5-5
+KP566
+44
+3

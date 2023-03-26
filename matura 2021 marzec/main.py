@@ -59,8 +59,7 @@ def exercise3(data):
 
 def main():
     with open("galerie.txt", "r") as file:
-        data = file.readlines()
-        data = list(map(prepare_data, data))
+        data = list(map(prepare_data, file.readlines()))
         exercise1(data)
         exercise2(data)
         exercise3(data)
