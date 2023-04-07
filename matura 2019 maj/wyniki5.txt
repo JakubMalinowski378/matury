@@ -1,0 +1,28 @@
+Zadanie 5.1
+63
+
+Zadanie 5.2
+448 - 455
+
+Zadanie 5.3
+C1	3.45
+C2	7.28
+C3	9.05
+C4	11.58
+C5	19.40
+S1	3.73
+S2	6.52
+S3	10.29
+S4	15.00
+S5	19.64
+
+Zadanie 5.4
+a)
+Wielkosc 0 - 34
+Wielkosc 1 - 102
+Wielkosc 2 - 102
+Wielkosc 3 - 102
+Wielkosc 4 - 100
+Wielkosc 5 - 60
+b) 296
+c) 286

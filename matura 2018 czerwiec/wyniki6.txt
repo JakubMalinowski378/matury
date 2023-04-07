@@ -1,0 +1,38 @@
+Zadanie 6.1
+
+Imie	Nazwisko	Nr_rej	Czas wypożyczenia	Koszt
+pierwszy wiersz:
+Nela	Aabacka		WI1150	2					160
+ostatni wiersz:
+Aaricia	Zgbacka		WI1126	11					880
+
+Zadanie 6.2
+Klasa	PoliczOfNr_ew
+B	100
+C	48
+D	53
+
+Zadanie 6.3
+PoliczOfNr_ew	Imie	Nazwisko
+5	Ramzes	Hcbacki
+
+Zadanie 6.4
+Miejscowosc		Wyr1	PoliczOfNr_ew
+Aniolkowo		B		12
+Aniolkowo		C		8
+Aniolkowo		D		7
+Manipulatowo	B		31
+Manipulatowo	C		14
+Manipulatowo	D		11
+Nieszczerzyn	B		17
+Nieszczerzyn	C		9
+Nieszczerzyn	D		4
+Piarowa			B		16
+Piarowa			C		18
+Piarowa			D		8
+Wielka Wola		B		25
+Wielka Wola		C		11
+Wielka Wola		D		7
+
+Zadanie 6.5
+72

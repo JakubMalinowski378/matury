@@ -1,0 +1,22 @@
+Zadanie 5.1
+12.50
+
+Zadanie 5.2
+1	2	3	4	5	6	7	8	9	10
+287	288	283	284	284	287	286	288	285	286
+
+Zadanie 5.4
+(-10, 15> 
+1150
+
+Zadanie 5.5
+
+warunek 1 i 2
+data		czujnik1	czujnik2	czujnik8	czujnik9
+05/05/2017	9.46		9.39		14.52		10.45
+07/07/2017	23.42		19.39		26.67		20.7
+
+warunek 1, 2 i 3
+data		czujnik1	czujnik2	czujnik8	czujnik9
+05/05/2017	10.36		10.29		15.42		11.35
+07/07/2017	23.42		19.39		26.67		20.7

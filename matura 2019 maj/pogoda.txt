@@ -17,7 +17,7 @@ Dzien;Temperatura;Opad;Kategoria_chmur;Wielkosc_chmur
 16;25,5;0;0;0
 17;22;2;C;1
 18;18,9;1;C;1
-19;16,9;1;C;1
+19;16.9;1;C;1
 20;16,3;12;C;2
 21;17,1;11;C;2
 22;18,7;6;C;2

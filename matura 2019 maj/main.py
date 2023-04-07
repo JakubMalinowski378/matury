@@ -31,6 +31,7 @@ def ex3(numbers):
     max_length = 0
     max_start_number = 0
     max_gcd = 0
+    number_before = numbers[0]
     for number in numbers:
         if current_gcd is None:
             length = 1
@@ -46,21 +47,20 @@ def ex3(numbers):
                 max_length = length
                 max_gcd = current_gcd
                 max_start_number = start_number
-            length = 1
-            current_gcd = number
-            start_number = number
-    print(max_start_number,
-          max_length,
-          max_gcd)
+            length = 2
+            current_gcd = gcd(number, number_before)
+            start_number = number_before
+        number_before = number
+    print(max_start_number, max_length, max_gcd)
 
 
 def main():
     with open("liczby.txt", "r") as file:
         numbers = list(map(int, file.readlines()))
-        # print("Zadanie 1")
-        # ex1(numbers)
-        # print("\nZadanie 2")
-        # ex2(numbers)
+        print("Zadanie 1")
+        ex1(numbers)
+        print("\nZadanie 2")
+        ex2(numbers)
         print("\nZadanie 3")
         ex3(numbers)
 
