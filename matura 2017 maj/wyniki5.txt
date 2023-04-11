@@ -1,0 +1,19 @@
+Zadanie 5.1
+a)
+L	113
+P	25
+T	6
+b)
+2007	21
+
+Zadanie 5.2
+Nocne Pumy
+Zwinne Mewy
+
+Zadanie 5.3
+Przegrana	452
+Remis		170
+Wygrana		579
+
+Zadanie 5.4
+22

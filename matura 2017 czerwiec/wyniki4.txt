@@ -1,0 +1,15 @@
+Zadanie 4.1
+18
+
+Zadanie 4.2
+5
+
+Zadanie 4.3
+Dystans 13348
+A(9901, 593)
+B(35, 9583)
+
+Zadanie 4.4
+wewnątrz 249
+na zewnątrz 749
+na boku 2

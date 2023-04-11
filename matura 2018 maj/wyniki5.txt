@@ -1,0 +1,30 @@
+Zadanie 5.1
+rok		suma
+2015	5364691
+
+Zadanie 5.2
+początek
+17/03/2015
+koniec
+10/05/2015
+
+Zadanie 5.3
+Etykiety wierszy	Suma z Wpływ
+January				95433
+February			94730
+March				109439
+April				632931
+May					329203
+June				85628
+July				166597
+August				139747
+September			282342
+October				170729
+November			222440
+December			172072
+
+
+Zadanie 5.4
+a) 19/04/2015
+b) 188
+c) 1399242

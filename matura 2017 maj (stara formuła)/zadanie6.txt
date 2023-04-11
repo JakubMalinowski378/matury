@@ -1,0 +1,75 @@
+Zadanie 6.1
+Sylwia	Adamska
+Marcin	Ciesielski
+Pawel	Dziminski
+Klaudia	Kapuscinska
+Ewelina	Lagun
+Michal	Majewski
+Katarzyna	Michalak
+Kamila	Olobry
+Piotr	Otorowski
+Danuta	Pawezowska
+Tomasz	Stefanczyk
+Pawel	Straciuk
+Monika	Wer
+
+Zadanie 6.2
+Marcin	Ciesielski	34017.5
+
+Zadanie 6.3
+Czerwiec	291
+Lipiec		505
+Sierpień	76
+Wrzesień	28
+
+Zadanie 6.4
+wylot	kraj	PoliczOfid_wycieczki
+Gdansk	Bulgaria	26
+Gdansk	Egipt	20
+Gdansk	Grecja	27
+Gdansk	Hiszpania	19
+Gdansk	Maroko	21
+Gdansk	Tunezja	23
+Gdansk	Turcja	17
+Katowice	Bulgaria	19
+Katowice	Egipt	49
+Katowice	Grecja	26
+Katowice	Hiszpania	31
+Katowice	Maroko	22
+Katowice	Tunezja	26
+Katowice	Turcja	23
+Krakow	Bulgaria	17
+Krakow	Egipt	14
+Krakow	Grecja	25
+Krakow	Hiszpania	12
+Krakow	Maroko	26
+Krakow	Tunezja	13
+Krakow	Turcja	22
+Lodz	Bulgaria	22
+Lodz	Egipt	3
+Lodz	Grecja	33
+Lodz	Hiszpania	19
+Lodz	Maroko	26
+Lodz	Tunezja	32
+Lodz	Turcja	30
+Poznan	Bulgaria	24
+Poznan	Egipt	21
+Poznan	Grecja	17
+Poznan	Hiszpania	17
+Poznan	Maroko	23
+Poznan	Tunezja	20
+Poznan	Turcja	23
+Warszawa	Bulgaria	20
+Warszawa	Egipt	26
+Warszawa	Grecja	29
+Warszawa	Hiszpania	25
+Warszawa	Maroko	21
+Warszawa	Tunezja	25
+Warszawa	Turcja	24
+Wroclaw	Bulgaria	25
+Wroclaw	Egipt	22
+Wroclaw	Grecja	19
+Wroclaw	Hiszpania	26
+Wroclaw	Maroko	28
+Wroclaw	Tunezja	25
+Wroclaw	Turcja	18

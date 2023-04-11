@@ -1,0 +1,10 @@
+Zadanie 5.1
+28/09/2015 wieczór
+
+Zadanie 5.2
+18 razy dowożono drewno
+167 dom ogrzewany drewnem
+32 dom ogrzewany gazem
+
+Zadanie 5.4
+468
