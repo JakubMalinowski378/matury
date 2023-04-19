@@ -1,0 +1,17 @@
+Zadanie 5.1
+A	28049590
+B	33942274
+C	58300340
+D	27478614
+
+Zadanie 5.2
+19
+A	3
+B	4
+C	8
+D	4
+
+Zadanie 5.3
+Liczba ludności: 125 930 205
+w12C
+18

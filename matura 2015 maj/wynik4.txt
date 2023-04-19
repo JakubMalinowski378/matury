@@ -1,0 +1,10 @@
+Zadanie 4.1
+422
+
+Zadanie 4.2
+podzielne przez 2: 500 
+podzielne przez 8: 123
+
+Zadanie 4.3
+Wartość minimalna w 859 lini
+Wartość maksymalna w 925 lini

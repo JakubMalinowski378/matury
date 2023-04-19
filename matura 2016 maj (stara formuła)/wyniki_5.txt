@@ -1,0 +1,9 @@
+Zadanie 5.1
+4
+
+Zadanie 5.2
+8
+
+Zadanie 5.3
+Generation: 51
+Alive cells: 8

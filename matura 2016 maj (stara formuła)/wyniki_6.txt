@@ -1,0 +1,42 @@
+Zadanie 6.1
+Imie	Nazwisko	PoliczOfID_obrazu
+Jacek	Malczewski	25
+Jan		Matejko		11
+
+Zadanie 6.2
+Imie	Nazwisko	Tytul
+Jozef	Chelmonski	Zjazd na polowanie
+Julian	Falat	Polowanie na kaczki
+Maksymilian	Gierymski	Wyjazd na polowanie
+Maksymilian	Gierymski	Polowanie w lesie
+Juliusz	Kossak	Polowanie w Poturzycy
+Juliusz	Kossak	Polowanie na lisa
+
+Zadanie 6.3
+Miejscowosc		Stan		PoliczOfStan
+Gdansk		ekspozycja czasowa	1
+Gdansk		ekspozycja stala	15
+Gdansk		w magazynie			2
+Gdansk		wypozyczony			1
+Krakow		ekspozycja czasowa	7
+Krakow		ekspozycja stala	20
+Krakow		w magazynie			9
+Krakow		wypozyczony			8
+Nieborow	ekspozycja czasowa	4
+Nieborow	ekspozycja stala	10
+Nieborow	w magazynie			2
+Nieborow	wypozyczony			2
+Warszawa	ekspozycja czasowa	68
+Warszawa	ekspozycja stala	65
+Warszawa	w magazynie			47
+Warszawa	wypozyczony			52
+Wroclaw		ekspozycja czasowa	4
+Wroclaw		ekspozycja stala	15
+Wroclaw		w magazynie			6
+Wroclaw		wypozyczony			1
+
+Zadanie 6.4
+P 47
+
+Zadanie 6.5
+Jacek	Malczewski	4
