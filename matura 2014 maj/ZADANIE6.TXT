@@ -1,0 +1,20 @@
+Zadanie 6a
+Paulina	Czeszewska
+Joanna	Derengowska
+Zuzanna	Jasinska
+Marta	Studzieniecka
+Zofia	Waluszko
+
+Zadanie 6b
+Adamczyk	Julia
+Adamik		Pawel
+Adamowicz	Weronika
+
+Zadanie 6c
+Przedszkole nr 61
+20
+
+Zadanie 6d
+Przedszkole nr 1	55	36	0.65
+Przedszkole nr 12	45	31	0.69
+Niepubliczne Przedszkole Krasnal	30	27	0.9

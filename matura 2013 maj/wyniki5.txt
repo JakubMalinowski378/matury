@@ -1,0 +1,34 @@
+Zadanie 5a
+AA2005	Charlie i fabryka czekolady
+AC2005	Kevin sam w domu
+AB2005	Madagaskar
+BD2005	Opowiesci z Narnii: Lew, czarownica i stara szafa
+
+Zadanie 5b
+horror	97
+
+Zadanie 5c
+Miesiąc	PoliczOfID_wyp
+6	24
+7	31
+8	31
+9	37
+10	45
+11	48
+12	58
+
+
+Zadanie 5d
+Bartlomiej	Wojciechowski	77
+
+Zadanie 5e
+9
+Jumper
+Straszny film
+Katyn
+Oszukac przeznaczenie
+Mgla
+Pianista
+Eurotrip
+The Ring
+Mumia

@@ -1,0 +1,10 @@
+Zadanie 5.1
+11
+
+Zadanie 5.2
+shortest: 401, day: 17
+longest: 601, day: 176
+
+Zadanie 5.3
+6
+158

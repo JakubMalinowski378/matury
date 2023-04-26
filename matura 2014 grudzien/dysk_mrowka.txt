@@ -1,0 +1,5 @@
+Zadanie 4.1
+W 7.85 sekundzie od początku y > x
+
+Zadanie 4.3
+33.6520

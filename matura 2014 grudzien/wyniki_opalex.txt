@@ -1,0 +1,42 @@
+Zadanie 6.1
+22263.18 zł
+
+Zadanie 6.2
+Rok	Miesiąc	Cena
+2013	8	1329996.8
+2013	9	1266883.2
+2013	10	1351785.6
+2013	11	1207324.8
+2013	12	1200320
+2014	1	1559324.8
+
+Zadanie 6.3
+Abdiasz	Eleryk	30.68
+
+Zadanie 6.4
+Eulalia	Dryzba
+Luba	Kierzek
+Tycjan	Parobi
+
+Zadanie 6.5
+nazwa_us	id_asortymentu	Wyr1
+Pierwszy Urzad Skarbowy Warszawa-srodmiescie	K	41086.55
+Pierwszy Urzad Skarbowy Warszawa-srodmiescie	M	14105.51
+Trzeci Urzad Skarbowy Warszawa-srodmiescie	K	14105.03
+Trzeci Urzad Skarbowy Warszawa-srodmiescie	M	16808.26
+Urzad Skarbowy Warszawa-Bemowo	K	20433.17
+Urzad Skarbowy Warszawa-Bemowo	M	33149.94
+Urzad Skarbowy Warszawa-Bielany	K	35013.39
+Urzad Skarbowy Warszawa-Bielany	M	11954.69
+Urzad Skarbowy Warszawa-Mokotow	K	27271.27
+Urzad Skarbowy Warszawa-Mokotow	M	17291.91
+Urzad Skarbowy Warszawa-Praga	K	3094.53
+Urzad Skarbowy Warszawa-Praga	M	16552.21
+Urzad Skarbowy Warszawa-Targowek	K	27537.84
+Urzad Skarbowy Warszawa-Targowek	M	8523.62
+Urzad Skarbowy Warszawa-Ursynow	K	8889.53
+Urzad Skarbowy Warszawa-Ursynow	M	10264.76
+Urzad Skarbowy Warszawa-Wawer	K	22612.09
+Urzad Skarbowy Warszawa-Wawer	M	4017.14
+Urzad Skarbowy Warszawa-Wola	K	6177.47
+Urzad Skarbowy Warszawa-Wola	M	28478.45

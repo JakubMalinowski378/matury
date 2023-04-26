@@ -1,0 +1,38 @@
+Zadanie 6a
+13/04/2012
+06/11/2012
+
+Zadanie 6b
+METALEX		30
+FASAT		29
+PETROLEUM	25
+KONSBET		23
+RENOWATOR	19
+WERTIX		18
+LUBEX		18
+FERMILAB	18
+FAMUR		17
+
+Zadanie 6c
+1	15
+2	100
+3	476
+4	1065
+5	380
+6	195
+7	411
+8	40
+9	40
+10	460
+11	670
+12	70
+
+Zadanie 6d
+nr_rejestr	PoliczOfid	marka	nazwa
+PO 60910	7	Ford Transit	FERMILAB
+
+Zadanie 6e
+FAMUR
+KONSBET
+LUBEX
+RENOWATOR

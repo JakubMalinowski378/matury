@@ -1,0 +1,10 @@
+Zadanie 6a
+447
+
+Zadanie 6b
+324
+
+Zadanie 6c
+counter: 49
+min number: 24
+max number: 1133357
